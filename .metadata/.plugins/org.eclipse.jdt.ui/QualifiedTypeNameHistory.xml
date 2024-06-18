@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction"/>
+    <fullyQualifiedTypeName name="javax.management.ValueExp"/>
+    <fullyQualifiedTypeName name="DE_2_Bài1.SpecialComic"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="BT_Xử_Lí_Dữ_Liệu_Country_dùng_mảng.CountryArrayManager"/>
+    <fullyQualifiedTypeName name="BT_Xử_Lí_Dữ_Liệu_Country_dùng_mảng.CountryData"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="BT_Quản_Lí_Country_dùng_List.AbstractCountry"/>
+    <fullyQualifiedTypeName name="java.beans.beancontext.BeanContext"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicLabelUI"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="ĐỀ_4_Bài1.Architect"/>
+    <fullyQualifiedTypeName name="ĐỀ_4_Bài1.Supervisor"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+</qualifiedTypeNameHistroy>
